@@ -38,7 +38,7 @@ function displayBagSummary(){
         </div>
         <div class="price-item">
             <span class="price-item-tag">Delivery Charge</span>
-            <span class="price-item-value">₹ 99</span>
+            <span class="price-item-value">₹ 88</span>
         </div>
         <hr>
         <div class="price-footer">
